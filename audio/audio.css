@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'shingo';
+    src: URL('resources/shingo.ttf') format('truetype');
+  }
+
+
+  .main
+  {
+    font-family: shingo;
+  }
+ 
